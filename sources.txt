@@ -1,1 +1,2 @@
-/trackers/generic_1.txt	:	notizie.it
+/trackers/generic_1.txt				notizie.it
+/advertising/generic_1.txt			notizie.it
