@@ -6,6 +6,9 @@ adclick.g.doubleclick.net
 adotmob.com
 ads.stickyadstv.com
 ads.viralize.tv
+ads1-adnow.com
+ads2-adnow.com
+ads3-adnow.com
 adv.presscommtech.com
 adx.4strokemedia.com
 adx.adform.net
@@ -27,6 +30,12 @@ ib.adnxs.com
 ice.360yield.com
 italiaonline-d.openx.net
 ligatus.com
+n.ads1-adnow.com
+n.ads2-adnow.com
+n.ads3-adnow.com
+st-n.ads1-adnow.com
+st-n.ads2-adnow.com
+st-n.ads3-adnow.com
 onetag-sys.com
 pa.rxthdr.com
 pebed.dm-event.net
