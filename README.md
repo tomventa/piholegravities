@@ -3,11 +3,11 @@
 <b>Gravity list kept up to date by Tomh</b><br/>
 </p>
 
-# Tomh PiHole Gravity
-## The Pi-hole is a DNS sinkhole that protects your devices from unwanted content, without installing any client-side software.
-## You can learn more about Pi-hole by visiting [the official documentation on GitHub](https://github.com/pi-hole/pi-hole) or [on pi-hole.net](https://pihole.net)
-# Why use these gravities?
-## There are many reasons for using these gravities: 
+## Tomh PiHole Gravity
+### The Pi-hole is a DNS sinkhole that protects your devices from unwanted content, without installing any client-side software.
+### You can learn more about Pi-hole by visiting [the official documentation on GitHub](https://github.com/pi-hole/pi-hole) or [on pi-hole.net](https://pihole.net)
+## Why use these gravities?
+### There are many reasons for using these gravities: 
 * Updated!
 * Zero false positives!
 * Controlled both manually and automatically!
@@ -16,4 +16,4 @@
 * Gravity tested personally!
 * Public analysis sources!
 * Free and opensource!
-### Note: the domains are due to a traffic analysis on various Italian and global websites. During the analysis, daily traffic and standard navigation were emulated.
+#### Note: the domains are due to a traffic analysis on various Italian and global websites. During the analysis, daily traffic and standard navigation were emulated.
