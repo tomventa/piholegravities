@@ -2,3 +2,4 @@ track.adform.net
 tracking.notizie.it
 tracking.trackset.com
 analytics.kaltura.com
+track.dnserror.tim.it
