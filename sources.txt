@@ -5,4 +5,6 @@
 /advertising/generic_1.txt
 	notizie.it
 	github.com
+	igds.red
+	
 	
