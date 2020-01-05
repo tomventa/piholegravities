@@ -5451,7 +5451,7 @@ www.googkle.com
 #www.googletagservices.com		#interferes with techrepublic
 www.hitstats.co.uk
 www.iccee.com
-www.iesnare.com
+www.iesnare.com  # See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
 www.iesnare.co.uk
 www.iovation.com
 www.iovation.co.uk
@@ -15878,6 +15878,7 @@ www.openload.de
 www.optiad.net
 www.paperg.com
 www.parsads.com
+
 www.partycasino.com
 www.pathforpoints.com
 www.paypopup.com
