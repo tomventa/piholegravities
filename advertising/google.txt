@@ -1,3 +1,4 @@
+
 1016557.fls.doubleclick.net
 1268402.fls.doubleclick.net
 1326154.fls.doubleclick.net
@@ -36,9 +37,6 @@
 8522212.fls.doubleclick.net
 8563004.fls.doubleclick.net
 accounts.doubleclick.net
-ad-ace.doubleclick.net
-ad-apac.doubleclick.net
-ad-creatives-public.commondatastorage.googleapis.com
 ad.ar.doubleclick.net
 ad.at.doubleclick.net
 ad.au.doubleclick.net
@@ -68,6 +66,9 @@ ad.terra.doubleclick.net
 ad.th.doubleclick.net
 ad.tw.doubleclick.net
 ad.us.doubleclick.net
+ad-ace.doubleclick.net
+ad-apac.doubleclick.net
+ad-creatives-public.commondatastorage.googleapis.com
 ade.googlesyndication.com
 ads.doubleclick.net
 ads.google.ca
@@ -97,8 +98,8 @@ adx.g.doubleclick.net
 affiliate.googleusercontent.com
 afs.googleadservices.com
 afs.googlesyndication.com
-analytics-api-samples.googlecode.com
 analytics.google.com
+analytics-api-samples.googlecode.com
 attributiontrackingga.googlecode.com
 betareportcentral.doubleclick.com
 bid.g.doubleclick.net
@@ -122,13 +123,13 @@ fls.doubleclick.net
 fls.uk.doubleclick.net
 g.doubleclick.net
 gan.doubleclick.net
-google-analytics.com
 google.tucows.com
 googleads.g.doubleclick.net
 googleads2.g.doubleclick.net
 googleads4.g.doubleclick.net
 googleadservices.com
 googleanalytics.com
+google-analytics.com
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
@@ -161,13 +162,16 @@ n4061ad.hk.doubleclick.net
 n4061ad.jp.doubleclick.net
 nojsstats.appspot.com
 ns2.doubleclick.com
-pagead-googlehosted.l.google.com
 pagead.googlesyndication.com
 pagead1.googlesyndication.com
 pagead2.googleadservices.com
 pagead2.googlesyndication.com
 pagead3.googlesyndication.com
+pagead4.googlesyndication.com
 pagead46.l.doubleclick.net
+pagead5.googlesyndication.com
+pagead-googlehosted.l.google.com
+pageads.googlesyndication.com
 partner.googleadservices.com
 partnerad.l.doubleclick.net
 partnerad.l.google.com
@@ -216,7 +220,6 @@ video-ad-stats.googlesyndication.com
 video-stats.video.google.com
 view.comms.doubleclick.com
 wintricksbanner.googlepages.com
-www-google-analytics.l.google.com
 www.4436230.fls.doubleclick.net
 www.4448269.fls.doubleclick.net
 www.ad.doubleclick.net.60532.9279.302br.net
@@ -227,10 +230,10 @@ www.doubleclick.com
 www.doubleclick.ne.jp
 www.doubleclick.net
 www.doubleclickbygoogle.com
-www.google-analytics.com
-www.google-analytics.l.google.com
 www.google.com.1.302br.net
 www.googleadservices.com
+www.google-analytics.com
+www.google-analytics.l.google.com
 www.googletagservices.com
 www.googlewordpad.info
 www.linksalpha.com
@@ -238,3 +241,4 @@ www.partner.googleadservices.com
 www2.doubleclick.com
 www3.doubleclick.com
 www3.doubleclick.net
+www-google-analytics.l.google.com
