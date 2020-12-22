@@ -1,4 +1,3 @@
-
 2mdn.net
 360yield.com
 a.teads.tv
@@ -33,6 +32,7 @@ aus-mec-tracking.adalyser.com
 aus-smv-tracking.adalyser.com
 awake-stats.jpush.cn
 b.stats.paypal.com
+b1-eudc1.zemanta.com
 bcdn-god.we-stats.com
 beop.io
 beopinion.com
@@ -60,6 +60,7 @@ eu-google-rtb.quantserve.com
 eus.rubiconproject.com
 eu-u.openx.net
 event-tracking.com
+exchangedaudacious.com
 fastlane.rubiconproject.com
 fbi.gov.id402037057-8235504608.d9680.com
 fcanr.tracking.miui.com
@@ -73,6 +74,7 @@ gbr-mbww-tracking.adalyser.com
 gbr-smv-tracking.adalyser.com
 gbr-tbh-tracking.adalyser.com
 gd-stats.jpush.cn
+gemini.yahoo.com
 gls-tracking.net
 googleadservice.com
 g-statistic.com
@@ -123,6 +125,8 @@ pubmatic.com
 px.moatads.com
 qa.stats.webs.com
 quantserve.com
+r.remarketingpixel.com
+remarketingpixel.com
 s0.2mdn.net
 s1-tracking.adalyser.com
 sb.scorecardresearch.com
@@ -586,6 +590,7 @@ us-tracker.inside-graph.com
 v7event.stats.avast.com
 vcrypt.net
 vendorlist.consensu.org
+video-adblocker.com
 video-stats.video.google.com
 wc-tracking.lavasoft.com
 we-are-adot.com
@@ -602,11 +607,8 @@ www.stats.net
 www.tracking.beginads.com
 www.tracking.intl.miui.com
 www.tracking.miui.com
+www.video-adblocker.com
 www8.smartadserver.com
 x.bidswitch.net
 yobee-it-d.openx.net
-video-adblocker.com
-www.video-adblocker.com
-exchangedaudacious.com
-r.remarketingpixel.com
-remarketingpixel.com
+zemanta.com
